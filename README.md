@@ -7,6 +7,6 @@ Warning: **DO NOT USE IN PRODUCTION**. This server was only developped for educa
 
 # Dependencies
 
-You need to install ![bcrypt]("https://pypi.org/project/bcrypt"). Using pip :
+You need to install [bcrypt](https://pypi.org/project/bcrypt). Using pip :
 
 `pip install bcrypt`
